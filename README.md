@@ -8,5 +8,5 @@ Plan Your Vote (PYV) is an open source project created by Medhat Elmasry & BCIT 
 - [CDA](https://plan-your-vote.amyhong0502.now.sh/)
 
 ## CMS Credentials
-- Admin
-- ChangeDefaultPassword
+- Username: Admin
+- Password: ChangeDefaultPassword
